@@ -43,4 +43,11 @@
     <td>Easy</td>
     <td>May 28, 2017</td>
   </tr>
+  <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/bigger-is-greater/">Bigger is Greater</a></td>
+    <td><a align="center" href="Grading%20Students/GradingStudents.swift">BiggerIsGreater.swift</a></td>
+    <td><a align="center" href="">Readme.md</a></td>
+    <td>Medium</td>
+    <td>Oct 22, 2020</td>
+  </tr>
 </table>
